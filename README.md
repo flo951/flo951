@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Expense-Splitting-Web-Application](https://splitify-final-project.herokuapp.com/)
 - 🌱 I’m working with Next.js, React, React-Native, TypeScript, Node.js
 - 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/florian-goerlich/)
 
